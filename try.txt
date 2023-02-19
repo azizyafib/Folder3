@@ -1,1 +1,17 @@
-This a 3 try to create a repository.
+
+ public class Try {
+
+  public static void main (String [] args){
+
+   System.out.println("this is for learning purpose only");
+
+
+
+}
+
+
+}
+
+
+
+
